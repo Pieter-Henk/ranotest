@@ -280,54 +280,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <id>480d2bb3-5bb0-425a-bcce-0beba3197a60</id>
     </Content>
-    <None Include="KeePass\KeePass.chm">
-      <id>2df74682-f41d-4885-bd2e-3be7bba157c4</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\KeePass.config.xml">
-      <id>782a0791-53c6-4fe9-a4ed-112b56664084</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\KeePass.exe">
-      <id>abd52f2f-e698-4a8f-adc1-733431ae0d87</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\KeePass.exe.config">
-      <id>d65aa985-1d3e-46a4-91e4-b100e6ef4167</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\License.txt">
-      <id>b3799e48-52a7-4301-8809-0eaf46d48f5c</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\NewDatabase.kdbx">
-      <id>7e8323ce-9e2e-4ac3-86af-fcf194a341df</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\KDBX_DetailsFull.xsl">
-      <id>3653d286-7106-4cd6-b578-9bd02022d491</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\KDBX_DetailsLite.xsl">
-      <id>ff47385b-aabf-4135-a733-476dddc51336</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\KDBX_PasswordsOnly.xsl">
-      <id>1dfd0fd2-2a38-4b0e-858a-9641df0d0556</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\KDBX_Styles.css">
-      <id>00981713-ddbd-431b-b61d-df564c0903b3</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\KDBX_Tabular.xsl">
-      <id>ff541d7e-ecc0-4857-a3e8-6e5822c96c3b</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-    <None Include="KeePass\XSL\TableHeader.gif">
-      <id>29dd57de-61f9-4433-9e5b-2e58f9a561ad</id>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="Recordings\AddGroup.rxrec">
       <BoundTo>30d0c825-aceb-4ad5-8c25-29554b281eeb</BoundTo>
       <id>72aff2e8-13ff-4958-b01b-76387eece9a3</id>
@@ -400,12 +352,6 @@
   <ItemGroup>
     <Folder Include="CodeModules">
       <id>d37faac4-f0a5-4adf-86e8-4fbaee67b170</id>
-    </Folder>
-    <Folder Include="KeePass">
-      <id>d5072257-5a1b-4b83-8085-b3880fed6327</id>
-    </Folder>
-    <Folder Include="KeePass\XSL">
-      <id>4127b170-4eeb-4bd0-95e3-d5c43a450216</id>
     </Folder>
     <Folder Include="Recordings">
       <id>0bb38c0d-d0da-4719-9790-f43f32f5cb6c</id>
