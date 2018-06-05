@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Meta>
 		<PreferUserConfiguration>false</PreferUserConfiguration>
 		<OmitItemsWithDefaultValues>true</OmitItemsWithDefaultValues>
@@ -33,11 +33,11 @@
 	</Application>
 	<Logging />
 	<MainWindow>
-		<X>-1118</X>
-		<Y>220</Y>
+		<X>309</X>
+		<Y>193</Y>
 		<Width>686</Width>
 		<Height>382</Height>
-		<SplitterHorizontalFrac>0.824175835</SplitterHorizontalFrac>
+		<SplitterHorizontalFrac>0.8235294</SplitterHorizontalFrac>
 		<SplitterVerticalFrac>0.3074627</SplitterVerticalFrac>
 		<Layout>Default</Layout>
 		<ToolBar />

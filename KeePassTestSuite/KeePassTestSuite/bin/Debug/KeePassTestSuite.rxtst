@@ -307,7 +307,7 @@ connector in three different ways:]]>
 				<parameters>
 					<param
 					name="GlobalExecutionPath"
-					value="C:\Program Files\KeePass\KeePass.exe">
+					value="KeePass\\KeePass.exe">
 					</param>
 				</parameters>
 			</testcase>
