@@ -608,9 +608,9 @@ connector in three different ways:]]>
 		</DataSource>
 	</datasources>
 	<testconfigurations
-	default="MyFirstRunConfig">
+	default="Keepass">
 		<testconfiguration
-		name="MyFirstRunConfig">
+		name="Keepass">
 			<testcontainer
 			id="35919cb4-ff0a-47d5-8755-346f31078869">
 			</testcontainer>

@@ -1,6 +1,6 @@
 ﻿<Properties>
   <Array name="active">
-    <Element value="Recordings\EmptyRecycleBin.rxrec" />
+    <Element value="KeePassTestSuite.rxtst" />
   </Array>
   <Array name="bookmarks" />
   <Array name="files">
@@ -8,11 +8,9 @@
     <Element value="Recordings\Login.rxrec" />
     <Element value="KeePassTestSuite.rxtmg" />
     <Element value="Recordings\StartSUT.rxrec" />
-    <Element value="Recordings\Save.rxrec" />
     <Element value="CodeModules\AddCredentialEntry.cs" />
     <Element value="Recordings\DeleteEntry.rxrec" />
     <Element value="Recordings\DeleteGroup.rxrec" />
-    <Element value="Recordings\EmptyRecycleBin.rxrec" />
   </Array>
   <Properties name="projectSavedData">
     <Properties name="customTool">
